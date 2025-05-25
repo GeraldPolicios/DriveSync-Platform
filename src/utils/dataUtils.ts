@@ -54,7 +54,7 @@ const services: Service[] = [
     price: 200,
     requiresWorkshop: false,
     vehicleType: 'motorcycle',
-    image: 'https://www.autodeal.com.ph/custom/blog-post/header/types-of-automotive-lubricants-60b8a6459df67.jpg'
+    image: 'https://www.tru-tension.com/wp-content/uploads/BananaSlip-Chain-Lube-Image-Two.jpg'
   },
   {
     id: '7',
